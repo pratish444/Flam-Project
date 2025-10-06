@@ -21,4 +21,4 @@ dependencyResolutionManagement {
 
 rootProject.name = "Flam Project"
 include(":app")
- 
+include(":sdk")
